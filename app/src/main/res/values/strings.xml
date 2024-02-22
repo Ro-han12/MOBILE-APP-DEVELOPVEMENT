@@ -1,0 +1,24 @@
+<resources>
+    <string name="app_name">assignment</string>
+    <string name="login">Login</string>
+    <string name="email" />
+    <string name="password" />
+    <string name="Registe" />
+    <string name="NEWUSER">REGISTER</string>
+    <string name="click_to_login">click to login</string>
+    <string name="register">REGISTER</string>
+    <string name="passcord">Password</string>
+    <string name="emailid">Email</string>
+    <string name="loginn">Login</string>
+    <string name="passcord1">Password</string>
+    <string name="Emailid">Email</string>
+    <string name="Register">clicktoregister</string>
+    <string name="logout">logout</string>
+    <string name="REGISTER">REGISTER</string>
+    <string name="MAILID">MAIL ID</string>
+    <string name="EMAIL">EMAIL</string>
+    <string name="PassWOrd">password</string>
+    <string name="newuser">new user</string>
+    <string name="mailid">MAIL ID</string>
+    <string name="Registere">click to register</string>
+</resources>
