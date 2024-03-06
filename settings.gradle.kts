@@ -13,5 +13,9 @@ dependencyResolutionManagement {
     }
 }
 
+<<<<<<< HEAD
 rootProject.name = "prg5"
+=======
+rootProject.name = "assignment"
+>>>>>>> origin/main
 include(":app")
